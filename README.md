@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anna-Beltanner
+- 👋 Hi, I’m Anna
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Room, Retrofit, MVVM, MVP, MVI, design patterns
 - 💞️ I’m looking to collaborate on FAANG))
