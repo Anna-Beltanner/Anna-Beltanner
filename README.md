@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anna
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Room, Retrofit, MVVM, MVP, MVI, design patterns
-- 💞️ I’m looking to collaborate on FAANG))
+- 🌱 I use Kotlin, Coroutines, Flow, Room, Retrofit, OkHttp, MVVM, MVI, Koin, Dagger2, etc.
 - 📫 How to reach me - anuta.piter@gmail.com
 
 <!---
